@@ -1,0 +1,3 @@
+interface AreaCalculationStrategy {
+    double calculateArea();
+}
